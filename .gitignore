@@ -47,3 +47,4 @@ parts/*.msi
 src/infi/git_mirror/__version__.py
 bootstrap.py
 .cache
+eggs
